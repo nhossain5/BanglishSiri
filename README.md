@@ -9,11 +9,13 @@ cmu_us_kal.jar
 freetts-jsapi10.jar
 jsapi.jar
 
-We need two more dependencies and download them from https://github.com/goxr3plus/Java-Speech-Recognizer-Tutorial--Calculator/tree/master/!!Libraries%20for%20all%20the%20tutorials!!!:
+We need two more dependencies and download them from "https://github.com/goxr3plus/Java-Speech-Recognizer-Tutorial--Calculator/tree/master/!!Libraries%20for%20all%20the%20tutorials!!!":
 sphinx4-core-5prealpha-20160628.232526-10.jar
 sphinx4-data-5prealpha-20160628.232535-10.jar
 
 Make sure these dependencies are added to the project before running the code.
+
+Download the sphinx4-5prealpha-src folder from https://sourceforge.net/projects/cmusphinx/files/sphinx4/5prealpha/
 
 I have put the list of commands in \BanglishSiri\src\main\resources called commands.txt
 About 1/3rd of it is English, 1/3rd is Bangla, and 1/3rd is Banglish.
