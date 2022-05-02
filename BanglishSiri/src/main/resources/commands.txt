@@ -1,0 +1,79 @@
+bye banglish
+open chrome
+chrome kulo
+chrome open koro
+close chrome
+chrome bhondho koro
+chrome close koro
+open edge
+edge kulo
+edge open koro
+close edge
+edge bhondho koro
+edge close koro
+open itunes
+itunes kulo
+itunes open koro
+close itunes
+itunes bhondho koro
+itunes close koro
+open excel
+excel kulo
+excel open koro
+close excel
+excel bhondho koro
+excel close koro
+open powerpoint
+powerpoint kulo
+powerpoint open koro
+close powerpoint
+powerpoint bhondho koro
+powerpoint close koro
+open snipping tool
+snipping tool kulo
+snipping tool open koro
+close snipping tool
+snipping tool bhondho koro
+snipping tool close koro
+open word
+word kulo
+word open koro
+close word
+word bhondho koro
+word close koro
+open internet explorer
+internet explorer kulo
+internet explorer open koro
+close internet explorer
+internet explorer bhondho koro
+internet explorer close koro
+open notepad
+notepad kulo
+notepad open koro
+close notepad
+notepad bhondho koro
+notepad close koro
+open paint
+paint kulo
+paint open koro
+close paint
+paint bhondho koro
+paint close koro
+open windows media player
+windows media player kulo
+windows media player open koro
+close windows media player
+windows media player bhondho koro
+windows media player close koro
+open wordpad
+wordpad kulo
+wordpad open koro
+close wordpad
+wordpad bhondho koro
+wordpad close koro
+what is the time
+koita baje
+time ta ki
+what is the date
+koto tarik
+date ta ki
